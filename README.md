@@ -2,13 +2,6 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding"width=400 src="https://imgs.search.brave.com/sbGvSFwvpcRoB5LFZD804ExtQ5qC11dDzdaReQTsRvc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMjE0/NzY3NzUzMi92aWRl/by9iYWNrLWVuZC1k/ZXZlbG9wbWVudC1s/aW5lLTJkLWFuaW1h/dGlvbi5qcGc_Yj0x/JnM9NjQweDY0MCZr/PTIwJmM9blVQRVEx/X3VGRzRZbU9WNm1M/RmE5dUNVcVFMRG12/Tm4tVDZJaTBoTFhC/VT0">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmoldubey7797-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="anmoldubey7797-jpg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmoldubey7797-jpg" alt="anmoldubey7797-jpg" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/anmoldubey59883" target="blank"><img src="https://img.shields.io/twitter/follow/anmoldubey59883?logo=twitter&style=for-the-badge" alt="anmoldubey59883" /></a> </p>
-
 - 🔭 I’m currently working on **Credit-Card Fraud Detection**
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning**
