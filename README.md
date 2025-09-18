@@ -33,4 +33,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmoldubey7797-jpg&show_icons=true&locale=en&layout=compact" alt="anmoldubey7797-jpg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmoldubey7797-jpg&show_icons=true&locale=en" alt="anmoldubey7797-jpg" /></p>
+
